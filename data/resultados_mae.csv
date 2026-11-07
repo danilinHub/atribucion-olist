@@ -1,0 +1,6 @@
+,mean,std
+First-touch,1.285,0.093
+Last-touch,1.326,0.168
+Lineal,1.231,0.09
+Decaimiento,1.254,0.109
+Markov,2.276,0.113
